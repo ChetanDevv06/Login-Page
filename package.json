@@ -1,0 +1,19 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetanDev06/login-page.git"
+  },
+  "author": "chetan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetanDev06/login-page/issues"
+  },
+  "homepage": "https://github.com/ChetanDev06/login-page#readme",
+  "description": ""
+}
